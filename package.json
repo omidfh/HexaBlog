@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gatsby-source-strapi": "^3.3.3"
+  }
+}
